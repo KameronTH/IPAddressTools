@@ -1,6 +1,6 @@
 # IPAddressTools
-Author: Kameron Hall
-Date Published: 
+Author: Kameron Hall \
+Date Published: 2025-06-06
 
 # Python Version
 Python 3.11.2
